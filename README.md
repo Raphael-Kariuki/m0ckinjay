@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a sysadmin programming things that currently bother or interest me. I've dabbled with everything, from software, scripting to data analysis, but I'm particularly interested in anything that runs on the terminal.
+
 <!--
 **m0ckinjay/m0ckinjay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
